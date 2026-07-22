@@ -4,7 +4,7 @@
 
 **Fast, free, no-friction file sharing — built for everyone, not just enterprises.**
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-file--sharing--psi--seven.vercel.app-4f8ef7?style=for-the-badge&logo=vercel&logoColor=white)](https://file-sharing-psi-seven.vercel.app)
+[![Live Site](https://img.shields.io/badge/Live%20Site-file--sharing--psi--seven.vercel.app-4f8ef7?style=for-the-badge&logo=vercel&logoColor=white)](https://fileshare.kayanshah.com/)
 [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js%2014-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
