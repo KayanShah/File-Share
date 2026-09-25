@@ -168,9 +168,10 @@ Recipients never need an account — just a link.
 
 ## ✦ About
 
-FileShare was built out of frustration with existing file sharing tools. Services like WeTransfer limit file sizes unless you pay. Google Drive forces recipients to log in. Dropbox shows ads. SendSpace throttles speeds.
+FileShare was built out of frustration with existing file sharing tools. Services like WeTransfer limit file sizes unless you pay. Google Drive forces recipients to log in. Dropbox shows ads and a paywall over 2GB. SendSpace throttles speeds.
 
 The goal was simple: a platform where sharing a file is as frictionless as sending a text message — free, fast, and permanent.
+
 
 ---
 
