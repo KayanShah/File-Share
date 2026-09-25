@@ -172,6 +172,8 @@ FileShare was built out of frustration with existing file sharing tools. Service
 
 The goal was simple: a platform where sharing a file is as frictionless as sending a text message — free, fast, and permanent.
 
+This project can be used in several ways: Either with file storage in Github repositories, with files stored in databases (such as Upstash Redis or Backblaze), or on hosted servers. 
+
 
 ---
 
